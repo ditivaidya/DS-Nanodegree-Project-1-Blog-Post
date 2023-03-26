@@ -15,8 +15,6 @@
 
 ## File Descriptions <a name="files"></a>
 
-## File Descriptions <a name="files"></a>
-
 ## Results <a name="results"></a>
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
