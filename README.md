@@ -22,7 +22,8 @@ This repository contains two components:
 2. Project_I.ipynb (Analysis) - This is the notebook where I have pre-processed the data, and conducted my analysis.
 
 ## Results <a name="results"></a>
-This analysis is presented in the form of a blog post and can be found on the following page: 
+This analysis is presented in the form of a blog post and can be found on the following page:
+https://medium.com/@avaditivaidya/will-you-get-to-vacation-at-your-dream-bnb-this-holiday-season-866beba6a2f7
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 I would like to thank AirBnb for sharing their listing data which can be found here if you look for "Amsterdam" - http://insideairbnb.com/get-the-data/
