@@ -13,6 +13,7 @@
 I have used the following libraries: pandas, numpy, matplotlib.pyplot, seaborn, calendar, scipy.stats
 
 ## Project Motivation <a name="motivation"></a>
+This project does an exploratory analysis to find out the factors that affect availability of listings on Air Bnb. We look into factors such as time of the year, ratings, neighbourhood and type of home. 
 
 ## File Descriptions <a name="files"></a>
 This repository contains two components:
