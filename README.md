@@ -11,6 +11,7 @@
 
 ## Installation <a name="installation"></a>
 I have used the following libraries: pandas, numpy, matplotlib.pyplot, seaborn, calendar, scipy.stats
+The Project_I.ipynb can be run using Python 3.* versions.
 
 ## Project Motivation <a name="motivation"></a>
 This project does an exploratory analysis to find out the factors that affect availability of listings on Air Bnb. We look into factors such as time of the year, ratings, neighbourhood and type of home. 
@@ -21,6 +22,9 @@ This repository contains two components:
 2. Project_I.ipynb (Analysis) - This is the notebook where I have pre-processed the data, and conducted my analysis.
 
 ## Results <a name="results"></a>
+This analysis is presented in the form of a blog post and can be found on the following page: 
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
-http://insideairbnb.com/get-the-data/
+I would like to thank AirBnb for sharing their listing data which can be found here if you look for "Amsterdam" - http://insideairbnb.com/get-the-data/
+I would also like to thank the Udacity Nanodegree for giving us a fun first assignment to work on as part of the Data Science Nanodegree.
+
