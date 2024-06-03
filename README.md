@@ -1,4 +1,4 @@
-# Udacity-Project-I
+# Data Science Nanodegree-Project-I - Writing a Data Scientist Blog Post
 
 ### Table of Contents
 
